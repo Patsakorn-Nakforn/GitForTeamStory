@@ -7,11 +7,11 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ## Our Wonderful Story
 
-1. Once upon a time, there was a **castle**.  
-   ![castle](img1.png)
+1. Once upon a time, an old stone castle stood atop a mountain, wrapped in a mist that never lifted. Villagers said its gates had never opened, not even once.  
+ <img src="img/castle.png">
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   (Nobody is sure yet.)
+2. One night, a colossal shadow plunged from the heavens, its wings swallowing the moon. “Dragon!” everyone cried. It landed with a heavy thud, breathing fire, but between the flames came a glint of metal and the click and whir of gears. A brave knight galloped out to meet it, sword raised, though even he wasn’t sure if he was facing a dragon or a robot.
+<img src="img/dragon.png">
 
 3. The scientist shouted something very important but nobody wrote it down.  
 
